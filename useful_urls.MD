@@ -21,3 +21,7 @@ https://github.com/ramitsurana/awesome-kubernetes
 ## docker questions 
 
 https://www.udemy.com/docker-interview-questions/
+
+
+## blog 
+https://tekslate.com/docker-interview-questions/
