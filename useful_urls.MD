@@ -16,3 +16,8 @@ https://github.com/eduleboss/the-best-docker-books/tree/master/books
 ## kubernetes materials
 
 https://github.com/ramitsurana/awesome-kubernetes
+
+
+## docker questions 
+
+https://www.udemy.com/docker-interview-questions/
