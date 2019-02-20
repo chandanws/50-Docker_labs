@@ -28,3 +28,15 @@ https://tekslate.com/docker-interview-questions/
 
 ## docker network
 https://neuvector.com/network-security/docker-swarm-container-networking/
+
+
+https://www.youtube.com/watch?v=X_q2l8hotAc&list=PLKuo76WNCU5t7qtSrpJatY4aTCu_DJUSk&index=3
+https://lastviking.eu/install_docker_on_centos_with_ansible.html
+https://caylent.com/manage-docker-swarm-using-ansible/
+http://itmithran.com/installing-docker-using-ansible-playbook-in-centos7/
+
+Tutorias
+https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
+
+video
+https://www.youtube.com/watch?v=DgoKjlDteEA&list=PLea0WJq13cnDsF4MrbNaw3b4jI0GT9yKt
