@@ -38,5 +38,9 @@ http://itmithran.com/installing-docker-using-ansible-playbook-in-centos7/
 Tutorias
 https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
 
+Good Questions and Answer
+https://www.wisdomjobs.com/e-university/docker-software-interview-questions.html
+
+
 video
 https://www.youtube.com/watch?v=DgoKjlDteEA&list=PLea0WJq13cnDsF4MrbNaw3b4jI0GT9yKt
