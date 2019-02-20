@@ -38,9 +38,27 @@ http://itmithran.com/installing-docker-using-ansible-playbook-in-centos7/
 Tutorias
 https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
 
-Good Questions and Answer
+=========Resources
+https://en.wikipedia.org/wiki/Logical_partition
+https://github.com/excellalabs/docker-cert-study-group-notes
+https://blog.openshift.com/cross-cluster-image-promotion-techniques/
+https://blog.agilepartner.net/private-docker-registry-configuration/
+DEBUGGING DOCKER
+https://www.aquasec.com/wiki/display/containers/Troubleshooting+Docker+Engine
+Useful repo
+https://github.com/devops2201/Docker-Deep-Dive
+Useful command history 
+https://github.com/sebgoa/oreilly-kubernetes/blob/master/history/7062018/history.txt
+https://github.com/jpetazzo/container.training
+
+## Old could be useful
+https://github.com/CiscoCloud/k8sclass
+https://reactdom.com/kubernetes/
+
+
+
+
+## Good Questions and Answer
 https://www.wisdomjobs.com/e-university/docker-software-interview-questions.html
-
-
-video
+## video
 https://www.youtube.com/watch?v=DgoKjlDteEA&list=PLea0WJq13cnDsF4MrbNaw3b4jI0GT9yKt
