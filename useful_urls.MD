@@ -1,8 +1,10 @@
 
 ## How to create registry and enable ssl 
- https://github.com/docker/labs/blob/master/registry/part-1.md
+https://github.com/docker/labs/blob/master/registry/part-1.md
+
 ## docker -kubernetes labs
 https://docker-k8s-lab.readthedocs.io/en/latest/docker/docker-flannel.html
+
 ## Security 
 https://github.com/cesanta/docker_auth
 
@@ -14,7 +16,6 @@ https://github.com/eduleboss/the-best-docker-books/tree/master/books
 
 ## kubernetes materials
 https://github.com/ramitsurana/awesome-kubernetes
-
 
 ## docker questions 
 https://www.udemy.com/docker-interview-questions/
@@ -55,7 +56,7 @@ https://github.com/gravitational/workshop/blob/master/k8sprod.md
 https://github.com/sebgoa/oreilly-kubernetes/blob/master/history/7062018/history.txt
 https://github.com/jpetazzo/container.training
 
-## Old could be useful
+## Could be useful
 https://github.com/CiscoCloud/k8sclass
 https://reactdom.com/kubernetes/
 
