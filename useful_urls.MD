@@ -38,6 +38,11 @@ http://itmithran.com/installing-docker-using-ansible-playbook-in-centos7/
 ## Tutorias
 https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
 
+
+## tag 
+https://www.techrepublic.com/article/how-to-use-docker-tags-to-add-version-control-to-images/
+
+
 ## tag 
 https://www.techrepublic.com/article/how-to-use-docker-tags-to-add-version-control-to-images/
 
