@@ -4,22 +4,19 @@
 ## docker -kubernetes labs
 https://docker-k8s-lab.readthedocs.io/en/latest/docker/docker-flannel.html
 ## Security 
- https://github.com/cesanta/docker_auth
+https://github.com/cesanta/docker_auth
 
 ## Docker Study Guide
-
 https://prismic-io.s3.amazonaws.com/docker%2Fa2d454ff-b2eb-4e9f-af0e-533759119eee_dca+study+guide+v1.0.1.pdf
 
 ## docker books
 https://github.com/eduleboss/the-best-docker-books/tree/master/books
 
 ## kubernetes materials
-
 https://github.com/ramitsurana/awesome-kubernetes
 
 
 ## docker questions 
-
 https://www.udemy.com/docker-interview-questions/
 
 ## blog 
@@ -41,7 +38,7 @@ https://www.ntu.edu.sg/home/ehchua/programming/howto/Tomcat_More.html
 ## tag 
 https://www.techrepublic.com/article/how-to-use-docker-tags-to-add-version-control-to-images/
 
-=========Resources
+## =========Resources
 https://en.wikipedia.org/wiki/Logical_partition
 https://github.com/excellalabs/docker-cert-study-group-notes
 https://blog.openshift.com/cross-cluster-image-promotion-techniques/
