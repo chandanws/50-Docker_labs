@@ -22,14 +22,11 @@ https://github.com/ramitsurana/awesome-kubernetes
 
 https://www.udemy.com/docker-interview-questions/
 
-
 ## blog 
 https://tekslate.com/docker-interview-questions/
 
 ## docker network
 https://neuvector.com/network-security/docker-swarm-container-networking/
-
-
 https://www.youtube.com/watch?v=X_q2l8hotAc&list=PLKuo76WNCU5t7qtSrpJatY4aTCu_DJUSk&index=3
 https://lastviking.eu/install_docker_on_centos_with_ansible.html
 https://caylent.com/manage-docker-swarm-using-ansible/
@@ -38,15 +35,11 @@ http://itmithran.com/installing-docker-using-ansible-playbook-in-centos7/
 ## Tutorias
 https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
 
+## Tomcat
+https://www.ntu.edu.sg/home/ehchua/programming/howto/Tomcat_More.html
 
 ## tag 
 https://www.techrepublic.com/article/how-to-use-docker-tags-to-add-version-control-to-images/
-
-
-## tag 
-https://www.techrepublic.com/article/how-to-use-docker-tags-to-add-version-control-to-images/
-
-
 
 =========Resources
 https://en.wikipedia.org/wiki/Logical_partition
@@ -56,8 +49,10 @@ https://blog.agilepartner.net/private-docker-registry-configuration/
 
 ## DEBUGGING DOCKER
 https://www.aquasec.com/wiki/display/containers/Troubleshooting+Docker+Engine
+
 ## Useful repo
 https://github.com/devops2201/Docker-Deep-Dive
+https://github.com/gravitational/workshop/blob/master/k8sprod.md
 
 ## Useful command history 
 https://github.com/sebgoa/oreilly-kubernetes/blob/master/history/7062018/history.txt
@@ -67,10 +62,8 @@ https://github.com/jpetazzo/container.training
 https://github.com/CiscoCloud/k8sclass
 https://reactdom.com/kubernetes/
 
-
-
-
 ## Good Questions and Answer
 https://www.wisdomjobs.com/e-university/docker-software-interview-questions.html
+
 ## video
 https://www.youtube.com/watch?v=DgoKjlDteEA&list=PLea0WJq13cnDsF4MrbNaw3b4jI0GT9yKt
