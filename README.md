@@ -12,7 +12,8 @@ service scale \
 service ps \
 service update 
 
-Questions:1. How can I initialize a swarm cluster in Docker?
+Questions:1. How can I initialize a swarm cluster in Docker? \
 Ans:1. docker swarm init --advertise-addr <ip-address-of-manager-node>
   
---advertise-addr 
+--advertise-addr = This is the ip of the manager node 
+
